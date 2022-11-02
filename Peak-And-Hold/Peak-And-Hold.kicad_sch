@@ -1583,7 +1583,7 @@
     (property "Reference" "D5" (id 0) (at 233.68 69.8499 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1SMA4748A" (id 1) (at 233.68 72.3899 90)
+    (property "Value" "1SMA4754A" (id 1) (at 233.68 72.3899 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 231.14 71.12 0)
@@ -2430,7 +2430,7 @@
       (reference "D4") (unit 1) (value "B150B-13-F") (footprint "Diode_SMD:D_SMB")
     )
     (path "/3f8a9cf3-9069-472a-b579-008b7c7761ab"
-      (reference "D5") (unit 1) (value "1SMA4748A") (footprint "Diode_SMD:D_SMA")
+      (reference "D5") (unit 1) (value "1SMA4754A") (footprint "Diode_SMD:D_SMA")
     )
     (path "/c98d36b8-9034-4cc3-842e-e855c4c8d2d2"
       (reference "J1") (unit 1) (value "39301080") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-08A2_2x04_P4.20mm_Horizontal")
